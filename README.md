@@ -92,3 +92,8 @@ Actividad 6.2. Utilizando la aplicación desarrollada en la actividad anterior, 
 
 Firmar digitalmente la aplicación.  
 Que sólo pueda leer los datos del directorio c:/datos.  
+![image](https://user-images.githubusercontent.com/44543081/58342627-2df51d00-7e51-11e9-8b28-91f9b647346c.png)  
+![image](https://user-images.githubusercontent.com/44543081/58342715-6eed3180-7e51-11e9-96ef-399096f9cbf4.png)  
+![image](https://user-images.githubusercontent.com/44543081/58342777-9f34d000-7e51-11e9-8b24-fddd05274d66.png)  
+![image](https://user-images.githubusercontent.com/44543081/58342835-cc817e00-7e51-11e9-92cb-1c49145a765a.png)  
+![image](https://user-images.githubusercontent.com/44543081/58342873-ede26a00-7e51-11e9-8503-8c778b4bc8c9.png)  
