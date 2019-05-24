@@ -97,3 +97,4 @@ Que sólo pueda leer los datos del directorio c:/datos.
 ![image](https://user-images.githubusercontent.com/44543081/58342777-9f34d000-7e51-11e9-8b24-fddd05274d66.png)  
 ![image](https://user-images.githubusercontent.com/44543081/58342835-cc817e00-7e51-11e9-92cb-1c49145a765a.png)  
 ![image](https://user-images.githubusercontent.com/44543081/58342873-ede26a00-7e51-11e9-8503-8c778b4bc8c9.png)  
+![image](https://user-images.githubusercontent.com/44543081/58342945-26824380-7e52-11e9-87dc-b8d60667a687.png)  
